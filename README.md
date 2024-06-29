@@ -1,8 +1,7 @@
-[![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F67194519%2F173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif&tbnid=Gql8n76CdpGvJM&vet=12ahUKEwiL_JOAoYCHAxVk3zgGHaY0A3sQMygKegQIARBe..i&imgrefurl=https%3A%2F%2Fgithub.com%2FFaadCoder&docid=KAVRRG_KSe5eZM&w=1920&h=732&q=coders%20gif%20banners&ved=2ahUKEwiL_JOAoYCHAxVk3zgGHaY0A3sQMygKegQIARBe)]
+![MasterHead](https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif)
 <h1 align="center">Hi 👋, I'm Svarjit Anil</h1>
-<h3 align="center">I am a final year student pursuing computer science engineering at Mahendra Engineering College Salem , Tamil Nadu to have new experiences , meet new people and learn new things. I find the idea of experience all the things around me and impacting the things through my work.</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw22-GbeoLmc3ra4-hXVGcIe&ust=1719730374118000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLiFu4WdgIcDFQAAAAAdAAAAABAE">
-
+<h3 align="center">I am a final-year computer science engineering student at Mahendra Engineering College, Salem, Tamil Nadu. I am passionate about gaining new experiences, meeting new people, and learning new things. The idea of experiencing everything around me and making an impact through my work drives me. Additionally, I am currently working as a project intern at Infosys, which has further fueled my enthusiasm for the field..</h3>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 - 🔭 I’m currently working on **Data science project**
 
 - 🌱 I’m currently learning **Data Analystics(Power BI,EXCEL,SQL),Python,Java**
